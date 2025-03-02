@@ -3,7 +3,7 @@ package ma.projet.impl;
 import java.util.ArrayList;
 import java.util.List;
 
-import ma.projet.Utilisateur;
+import ma.projet.bean.Utilisateur;
 import ma.projet.dao.IDao;
 
 public class UtilisateurImpl implements IDao<Utilisateur>{

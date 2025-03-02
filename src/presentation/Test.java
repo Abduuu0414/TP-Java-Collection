@@ -1,8 +1,8 @@
 package presentation;
 
-import ma.projet.Profile;
-import ma.projet.Utilisateur;
 import ma.projet.impl.UtilisateurImpl;
+import ma.projet.bean.Profile;
+import ma.projet.bean.Utilisateur;
 import ma.projet.impl.ProfilesImpl;
 
 

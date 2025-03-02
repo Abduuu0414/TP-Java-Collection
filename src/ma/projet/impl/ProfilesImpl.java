@@ -3,7 +3,7 @@ package ma.projet.impl;
 import java.util.ArrayList;
 import java.util.List;
 
-import ma.projet.Profile;
+import ma.projet.bean.Profile;
 import ma.projet.dao.IDao;
 
 public class ProfilesImpl implements IDao<Profile> {

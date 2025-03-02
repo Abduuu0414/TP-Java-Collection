@@ -1,4 +1,4 @@
-package ma.projet;
+package ma.projet.bean;
 
 
 public class Utilisateur extends Personne {
